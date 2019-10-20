@@ -9,4 +9,4 @@ This repository contains an example implementation of a Vanilla GAN for simulate
 
 <br>The role of the discriminator is to flag the anomalies as "fake" (abnormal) data and classify the normal data as "real".
 
-<br>The trained discrimnator proves to be relatively proficient at this task; achieving high accuracy scores for normal and abnormal data classifications.
+<br>The trained discriminator proves to be relatively proficient at this task; achieving high accuracy scores for normal and abnormal data classifications.
